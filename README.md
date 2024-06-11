@@ -1,3 +1,2 @@
-# Curso Digital: Git
-
-## Gravando mudanças no repositório
+Criando meu curso agora 
+Isso é uma alteração 
